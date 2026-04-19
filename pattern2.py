@@ -23,8 +23,8 @@
 1
 
 """
-
-# for i in range(5,0,-1):
+# n= int(input("Enter n :"))
+# for i in range(n,0,-1):
 #     for j in range(i,0,-1):
 #         print(j, end=" ")
 #     print()
@@ -93,9 +93,9 @@
     *
 """
 
-n=int(input("enter n"))
-for i in range(0,n+1):
-    star= 2*n - (2*i-1)
-    space= i
-    print(" " * space + "*"* star)
-    print()
+# n=int(input("enter n"))
+# for i in range(0,n+1):
+#     star= 2*n - (2*i-1)
+#     space= i
+#     print(" " * space + "*"* star)
+#     print()
